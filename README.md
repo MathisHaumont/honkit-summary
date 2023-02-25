@@ -6,9 +6,11 @@ This script generates a summary for Honkit books based on the file structure def
 
 To use this script, follow these steps:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to the root of your Honkit project
 
-2. Run the script with the following command:
+2. You need to have a SUMMARY.md at the root with your architecture to create.
+
+3. Run the script with the following command:
 
 ```bash
-python summary_generator.py
+python honkit_summary.py
